@@ -81,9 +81,9 @@ Contains 2000 music tracks with the following features:
 ### 📈 Output
 
 * Correlation matrix between audio features
-* Cluster assignments (to be added)
-* Visualizations (to be added)
-
+* Cluster assignments
+* Visualizations
+![newplot](https://github.com/user-attachments/assets/adee5bb7-2ff4-4747-9474-d7a15574765f)
 ---
 
 ### 🧠 Technologies Used
